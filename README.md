@@ -8,6 +8,6 @@ I have used two models which are
     1. It is available in the file Untitled.ipynb
     
   * Random Forest Tree Regressor
-    1. It is available in the file Car Prediction using Random Forest
+    1. It is available in the file Car Prediction using Random Forest.ipynb
     
 
